@@ -8,6 +8,36 @@ It is not a fixed promise. Priorities may change depending on technical constrai
 
 Top Robbers aims to be an open-source Cops & Robbers gamemode for open.mp, built around arcade-style gameplay, pursuits, robberies, crews, racing activities, territories, progression, and modern CEF-powered interfaces.
 
+---
+
+## Phase 0 — Foundation
+
+Status: In Progress
+
+Goals:
+
+- Repository setup
+- Project structure
+- Contribution guidelines
+- License setup
+- Discord / GitHub organization
+- Roadmap and issue triage workflow
+- Basic localization structure
+- Initial coding conventions
+
+Target repositories:
+
+- `meta`
+- `locales`
+- `gamemode`
+- `webview`
+
+---
+
+## Phase 1 — Minimal playable prototype
+
+Status: Planned
+
 *todo*
 
 ## Feedback
