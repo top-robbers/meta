@@ -37,11 +37,11 @@ You can contribute by:
 - Opening pull requests
 - Joining discussions
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) before contributing.
+Please read [CONTRIBUTING](CONTRIBUTING.md) before contributing.
 
 ## Roadmap
 
-The public roadmap is available in [ROADMAP.md](ROADMAP.md).
+The public roadmap is available in [ROADMAP](ROADMAP.md).
 
 ## Community
 
@@ -50,7 +50,7 @@ Please follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 ## Security
 
 Please do not report security issues publicly.  
-See [SECURITY.md](SECURITY.md) for responsible disclosure instructions.
+See [SECURITY](SECURITY.md) for responsible disclosure instructions.
 
 ## License
 
