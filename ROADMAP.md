@@ -38,7 +38,11 @@ Target repositories:
 
 Status: Planned
 
-*todo*
+Goals:
+
+- Basic account/session
+- Basic player profile
+- ... *todo*
 
 ## Feedback
 
