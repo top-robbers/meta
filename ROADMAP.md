@@ -42,7 +42,28 @@ Goals:
 
 - Basic account/session
 - Basic player profile
-- ... *todo*
+- Basic admin tools
+- Lobby
+- Multilingual/translates 
+- Early stage of faction systems (police, gangs, civilians)
+- Skills
+- Wanted/bounty
+- Simple inventory, weapons, items
+- Basic bank
+- Basic robbery
+- Basic death/respawn
+- Basic jail
+
+## Phase 2 - Complement to basics systems
+
+Status: Planned
+
+Goals:
+
+- Basic housing
+- Basic clans
+- Basic gangwars
+- ... Todo
 
 ## Feedback
 
